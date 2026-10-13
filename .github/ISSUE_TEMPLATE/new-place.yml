@@ -1,0 +1,73 @@
+name: Suggest a place or pit stop
+description: Add a brewery, beer garden, bar, restaurant, café, water fountain, restroom, bike shop, or other stop along the W&OD.
+title: "[place] "
+labels: ["place-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping fill in the trail! Fill in what you know; partial submissions are welcome.
+        Once reviewed, the place is added to `src/lib/data/places.json` and appears on the site.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: e.g. Caboose Tavern
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - brewery (incl. beer gardens)
+        - bar
+        - restaurant
+        - coffee (incl. bakeries)
+        - water-restroom
+        - bike-shop
+        - park
+        - trailhead (parking, access points)
+        - landmark
+        - other
+    validations:
+      required: true
+  - type: input
+    id: also
+    attributes:
+      label: Also counts as
+      description: Optional. A second kind, if the place is two things at once (a bike shop with a café, a brewery with a kitchen).
+      placeholder: e.g. coffee
+  - type: input
+    id: mile
+    attributes:
+      label: Nearest mile marker
+      description: Mile 0 is Shirlington, mile 45 is Purcellville. Half-mile posts are along the trail.
+      placeholder: e.g. 12.0
+    validations:
+      required: true
+  - type: input
+    id: town
+    attributes:
+      label: Town / area
+      placeholder: e.g. Vienna
+  - type: input
+    id: distance
+    attributes:
+      label: How far off the trail?
+      placeholder: e.g. right on the trail / 2 blocks / 0.4 mi
+  - type: input
+    id: url
+    attributes:
+      label: Website or map link
+  - type: textarea
+    id: notes
+    attributes:
+      label: Why stop here?
+      description: Bike parking, outdoor seating, dog-friendly, hours, what to order, anything a runner or rider would want to know.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have been here or have verified the place is currently open.
