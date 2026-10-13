@@ -2,6 +2,7 @@
 	import TrailMap from '#lib/components/TrailMap.svelte';
 	import Chapter from '#lib/components/Chapter.svelte';
 	import CategoryFilter from '#lib/components/CategoryFilter.svelte';
+	import SuggestFab from '#lib/components/SuggestFab.svelte';
 	import StopsTable from '#lib/components/StopsTable.svelte';
 	import { scrolly, type StepState } from '#lib/scrolly.js';
 	import { filters } from '#lib/state.svelte.js';
@@ -215,6 +216,8 @@
 		</ul>
 	</div>
 </footer>
+
+<SuggestFab />
 
 <style>
 	.hero {
