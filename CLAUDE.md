@@ -38,7 +38,6 @@ node scripts/screenshot.mjs out/ # after `npm run build`: headless screenshots a
 - `src/lib/components/StopsTable.svelte` – the “All stops” reference table (#, mile, name, kind, town, address, website/map links, source). The CSV (`static/wod-pit-stops.csv`, built by `scripts/build-csv.mjs`) carries more columns: chapter, county, coordinates + their source, notes, tags, verified flag.
 - `src/lib/components/TrailInset.svelte` – corner overview: whole trail in grey, active chapter in black, position dot. Uses the SVG projection helpers in `geo.ts`.
 - `src/lib/components/CategoryIcon.svelte` – Lucide icon per category.
-- `src/lib/components/SuggestFab.svelte` – fixed tab on the right edge (square icon button bottom-right on phones) that opens a panel with the suggest / correct / email links. Closes on Escape or outside click.
 - `src/lib/links.ts` – `mapsUrl(place)` (Google Maps search by coordinates or name+town) and `hostname(url)`.
 - `src/lib/components/ElevationProfile.svelte` – SVG strip under the map: profile, active-segment band, cursor at the current mile, and the mile/feet readout.
 - `src/lib/components/Chapter.svelte` – one scrolly step (`data-step`) per segment; renders numbered `PlaceCard`s.
