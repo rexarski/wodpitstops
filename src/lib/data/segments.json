@@ -1,0 +1,125 @@
+[
+	{
+		"id": "shirlington-arlington",
+		"title": "Shirlington to Bluemont",
+		"range": "Mile 0–6 · Arlington County",
+		"from": 0,
+		"to": 6,
+		"county": "Arlington",
+		"towns": [
+			"Shirlington",
+			"Arlington"
+		],
+		"body": [
+			"The trail starts quietly beside Four Mile Run, a few hundred yards from the Village at Shirlington. Mile marker 0 is easy to miss; the Shirlington restaurants are the last big cluster of food for a while, so a lot of riders start with breakfast here.",
+			"Around miles 3 and 4 the trail threads through Bluemont Park and past the Bon Air rose garden. This is also where the Custis Trail peels off toward Rosslyn and DC, which makes Bluemont the busiest junction on the whole route."
+		]
+	},
+	{
+		"id": "falls-church",
+		"title": "Falls Church",
+		"range": "Mile 6–8 · City of Falls Church",
+		"from": 6,
+		"to": 8,
+		"county": "Falls Church",
+		"towns": [
+			"Falls Church"
+		],
+		"body": [
+			"Only two miles, but the densest run of food on the eastern half. The trail crosses the middle of the city a block or two from Broad Street, so coffee, a brewery taproom and a bakery are all within a minute of the pavement.",
+			"Mile marker 8 is where the trail leaves the city and enters Fairfax County near Idylwood."
+		]
+	},
+	{
+		"id": "vienna",
+		"title": "Vienna",
+		"range": "Mile 8–13 · Fairfax County",
+		"from": 8,
+		"to": 13,
+		"county": "Fairfax",
+		"towns": [
+			"Vienna"
+		],
+		"body": [
+			"After a wooded stretch along I-66 the trail arrives in the Town of Vienna, the classic halfway lunch stop for out-and-back rides from Arlington. The old red caboose and freight depot sit right on the trail at Church Street, and the brewery next to them has more bike racks than car spaces.",
+			"Three bike shops within a few blocks make this the place to fix a flat. Between miles 12 and 13 look for the LOVE sign on the north side."
+		]
+	},
+	{
+		"id": "reston",
+		"title": "Hunter Mill to Reston",
+		"range": "Mile 13–18 · Fairfax County",
+		"from": 13,
+		"to": 18,
+		"county": "Fairfax",
+		"towns": [
+			"Reston"
+		],
+		"body": [
+			"The quietest Fairfax miles: Meadowlark Botanical Gardens at mile 14, the Cross County Trail junction at 15, and long rolling stretches with few road crossings.",
+			"Services return at Sunset Hills Road around mile 16.5, where a bike shop, café and brewery share one building on the trail. Reston Town Center is a half-mile detour north of the Wiehle crossing at mile 18."
+		]
+	},
+	{
+		"id": "herndon",
+		"title": "Herndon",
+		"range": "Mile 18–22 · Fairfax County",
+		"from": 18,
+		"to": 22,
+		"county": "Fairfax",
+		"towns": [
+			"Herndon"
+		],
+		"body": [
+			"Downtown Herndon straddles the trail at mile 20. The restored depot and caboose are the landmark; Elden Street, a block south, has the densest run of bars and taprooms on the Fairfax half of the trail.",
+			"The community center at mile 21 is a reliable water and restroom stop before the long exposed miles ahead."
+		]
+	},
+	{
+		"id": "sterling-ashburn",
+		"title": "Sterling and Ashburn",
+		"range": "Mile 22–28 · Loudoun County",
+		"from": 22,
+		"to": 28,
+		"county": "Loudoun",
+		"towns": [
+			"Sterling",
+			"Ashburn"
+		],
+		"body": [
+			"Crossing Route 28 puts you in Loudoun County. The trail runs straight and open past Sterling, then into Ashburn, where a cluster of breweries sits in the industrial parks beside the pavement, some of them literally at the trail's edge.",
+			"Carolina barbecue at the Ashburn Road crossing around mile 27.5 is a long-standing rider tradition."
+		]
+	},
+	{
+		"id": "ashburn-leesburg",
+		"title": "Goose Creek to Leesburg",
+		"range": "Mile 28–34 · Loudoun County",
+		"from": 28,
+		"to": 34.5,
+		"county": "Loudoun",
+		"towns": [
+			"Leesburg"
+		],
+		"body": [
+			"The trail skirts the Luck Stone quarry for several miles, crosses Goose Creek on a high bridge, and drops into Leesburg. Downtown is right on the trail at mile 34, with the biggest concentration of breweries, cafés and bike shops anywhere on the W&OD.",
+			"This is the last full-service town before the finish, and a natural turnaround for riders starting in Reston or Herndon."
+		]
+	},
+	{
+		"id": "leesburg-purcellville",
+		"title": "Clarks Gap to Purcellville",
+		"range": "Mile 34–45 · Loudoun County",
+		"from": 34.5,
+		"to": 45,
+		"county": "Loudoun",
+		"towns": [
+			"Hamilton",
+			"Purcellville"
+		],
+		"body": [
+			"West of Leesburg the trail climbs steadily to Clarks Gap, the high point of the route, then rolls through farmland past Hamilton. Services are sparse here; carry water.",
+			"The restored Purcellville train station marks the end at mile 45, with a brewery, barbecue and a mill restaurant within a block. Then turn around: it is downhill most of the way back."
+		]
+	}
+]

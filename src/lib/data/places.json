@@ -1,0 +1,1090 @@
+[
+	{
+		"id": "busboys-and-poets-shirlington",
+		"name": "Busboys & Poets",
+		"category": "restaurant",
+		"mile": 0,
+		"town": "Shirlington",
+		"offTrail": "about 0.3 mi, Village at Shirlington",
+		"url": "https://busboysandpoets.com/",
+		"notes": "Full menu and a large patio; opens early for breakfast.",
+		"tags": [
+			"breakfast",
+			"patio"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.84131,
+		"lon": -77.08954,
+		"address": "4251 Campbell Avenue, Arlington, VA 22206",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "best-buns",
+		"name": "Best Buns Bread Company",
+		"category": "coffee",
+		"mile": 0,
+		"town": "Shirlington",
+		"offTrail": "about 0.3 mi, Village at Shirlington",
+		"url": "https://bestbunsbreadco.com/",
+		"notes": "Bakery; pastries and coffee before a ride.",
+		"tags": [
+			"bakery"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.84059,
+		"lon": -77.08726,
+		"address": "4010 Campbell Avenue, Arlington, VA 22206",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "bluemont-park",
+		"name": "Bluemont Park",
+		"category": "park",
+		"mile": 3.5,
+		"town": "Arlington",
+		"offTrail": "on the trail",
+		"url": "https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Locations/Bluemont-Park",
+		"notes": "Restrooms, water, picnic shelters. Junction with the Custis Trail and the Four Mile Run Trail.",
+		"tags": [
+			"restroom",
+			"water",
+			"junction"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.87087,
+		"lon": -77.13213,
+		"address": "Arlington, VA",
+		"geocoded": "nominatim",
+		"also": [
+			"water-restroom"
+		]
+	},
+	{
+		"id": "bon-air-rose-garden",
+		"name": "Bon Air Memorial Rose Garden",
+		"category": "park",
+		"mile": 4,
+		"town": "Arlington",
+		"offTrail": "on the trail",
+		"url": "https://parks.arlingtonva.us/locations/bon-air-park/",
+		"notes": "Worth a two-minute detour in May and June.",
+		"tags": [],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"query": "850 North Lexington Street, Arlington, VA 22205",
+		"lat": 38.87539,
+		"lon": -77.13258,
+		"address": "850 North Lexington Street, Arlington, VA 22205",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "solace-outpost",
+		"name": "Solace Outpost",
+		"category": "brewery",
+		"mile": 6,
+		"town": "Falls Church",
+		"offTrail": "about 2 blocks",
+		"url": "https://solacebrewing.com/?site=falls-church",
+		"notes": "Brewery taproom with a large outdoor space and food menu. Occupies the former Mad Fox building.",
+		"tags": [
+			"beer-garden",
+			"patio",
+			"food",
+			"dog-friendly"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.88627,
+		"lon": -77.17699,
+		"address": "444 West Broad Street, Falls Church, VA 22046",
+		"geocoded": "nominatim",
+		"also": [
+			"restaurant"
+		]
+	},
+	{
+		"id": "rarebird-coffee",
+		"name": "Rarebird Coffee Roasters",
+		"category": "coffee",
+		"mile": 6,
+		"town": "Falls Church",
+		"offTrail": "about 2 blocks",
+		"url": "https://rarebirdcoffee.com/",
+		"notes": "Small local roaster; order at the counter.",
+		"tags": [],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"query": "230 West Broad Street, Falls Church, VA 22046",
+		"lat": 38.88344,
+		"lon": -77.17252,
+		"address": "230;228 West Broad Street, Falls Church, VA 22046",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "spacebar",
+		"name": "Spacebar",
+		"category": "bar",
+		"mile": 6,
+		"town": "Falls Church",
+		"offTrail": "about 2 blocks",
+		"url": "https://spcbr.com/",
+		"notes": "Grilled cheese sandwiches and a long craft beer list.",
+		"tags": [
+			"late"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"query": "709 West Broad Street, Falls Church, VA 22046",
+		"lat": 38.88746,
+		"lon": -77.17986,
+		"address": "709 West Broad Street, Falls Church, VA 22046",
+		"geocoded": "nominatim",
+		"also": [
+			"restaurant"
+		]
+	},
+	{
+		"id": "state-theatre",
+		"name": "The State Theatre",
+		"category": "landmark",
+		"mile": 6,
+		"town": "Falls Church",
+		"offTrail": "about 2 blocks",
+		"url": "https://www.thestatetheatre.com/",
+		"notes": "Live music venue in a 1936 cinema.",
+		"tags": [],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.88292,
+		"lon": -77.1697,
+		"address": "220 North Washington Street, Falls Church, VA 22046",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "vienna-inn",
+		"name": "Vienna Inn",
+		"category": "bar",
+		"mile": 11.5,
+		"town": "Vienna",
+		"offTrail": "about 0.3 mi on Maple Ave",
+		"url": "https://www.viennainn.com/",
+		"notes": "Chili dogs and cheap pitchers in a diner-bar that has been on Maple Avenue since 1960.",
+		"tags": [
+			"cheap",
+			"classic"
+		],
+		"source": "fxva.com best stops; r/bikedc 1mmr9sa",
+		"verified": false,
+		"lat": 38.90223,
+		"lon": -77.26482,
+		"address": "120 Maple Avenue East, Vienna, VA 22180",
+		"geocoded": "nominatim",
+		"also": [
+			"restaurant"
+		]
+	},
+	{
+		"id": "caffe-amouri",
+		"name": "Caffe Amouri",
+		"category": "coffee",
+		"mile": 11.5,
+		"town": "Vienna",
+		"offTrail": "about 2 blocks, Church St",
+		"url": "https://caffeamouri.com/",
+		"notes": "Roasts its own beans. Espresso, drip and pastries.",
+		"tags": [],
+		"source": "fxva.com best stops; r/bikedc 1mmr9sa, i64koh",
+		"verified": false,
+		"lat": 38.90252,
+		"lon": -77.26576,
+		"address": "107 Church Street Northeast, Vienna, VA 22180",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "plaka-grill",
+		"name": "Plaka Grill",
+		"category": "restaurant",
+		"mile": 11.5,
+		"town": "Vienna",
+		"offTrail": "about 2 blocks",
+		"url": "https://plakagrill.com/",
+		"notes": "Gyros and Greek plates, counter service.",
+		"tags": [],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.90003,
+		"lon": -77.26816,
+		"address": "110 Lawyers Road, Vienna, VA 22180",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "bikes-at-vienna",
+		"name": "Bikes@Vienna",
+		"category": "bike-shop",
+		"mile": 11.5,
+		"town": "Vienna",
+		"offTrail": "about 2 blocks, Church St",
+		"url": "https://www.bikesatvienna.com/",
+		"notes": "Repairs, tubes, and recumbents. Trek Bicycle and Conte's are also within a few blocks.",
+		"tags": [
+			"repair"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.90128,
+		"lon": -77.26693,
+		"address": "128 Church Street Northwest, Vienna, VA 22180",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "vienna-caboose-depot",
+		"name": "Vienna caboose & depot",
+		"category": "landmark",
+		"mile": 11.7,
+		"town": "Vienna",
+		"offTrail": "on the trail",
+		"url": "https://www.nvmr.org/",
+		"notes": "Restored W&OD freight station (now the model railroad museum) and a red caboose. Benches and shade.",
+		"tags": [
+			"photo",
+			"shade"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"query": "Northern Virginia Model Railroaders, 231 Dominion Road NE, Vienna, VA",
+		"lat": 38.90392,
+		"lon": -77.26724,
+		"address": "231 Dominion Road Northeast, Vienna, VA 22180",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "caboose-tavern",
+		"name": "Caboose Tavern",
+		"category": "brewery",
+		"mile": 12,
+		"town": "Vienna",
+		"offTrail": "right on the trail",
+		"url": "https://www.caboosebrewing.com/",
+		"notes": "Caboose Brewing's original taproom, directly off the trail with abundant bike parking. Rotating taps and a farm-to-table menu.",
+		"tags": [
+			"bike-parking",
+			"patio",
+			"food",
+			"dog-friendly"
+		],
+		"source": "Washingtonian; fxva.com best stops",
+		"verified": false,
+		"lat": 38.90744,
+		"lon": -77.27031,
+		"address": "520 Mill Street Northeast, Vienna, VA 22180",
+		"geocoded": "nominatim",
+		"also": [
+			"restaurant"
+		]
+	},
+	{
+		"id": "meadowlark-gardens",
+		"name": "Meadowlark Botanical Gardens",
+		"category": "park",
+		"mile": 14,
+		"town": "Vienna",
+		"offTrail": "about 0.5 mi",
+		"url": "https://www.novaparks.com/parks/meadowlark-botanical-gardens",
+		"notes": "NOVA Parks garden with restrooms at the visitor center. Admission fee for the gardens.",
+		"tags": [
+			"restroom"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.93754,
+		"lon": -77.28256,
+		"address": "9750, Vienna, VA 22182",
+		"geocoded": "nominatim",
+		"also": [
+			"water-restroom"
+		]
+	},
+	{
+		"id": "cct-junction",
+		"name": "Cross County Trail junction",
+		"category": "landmark",
+		"mile": 15,
+		"town": "Reston",
+		"offTrail": "on the trail",
+		"url": "https://www.fairfaxcounty.gov/parks/trails/cross-county-trail",
+		"notes": "The 40-mile Gerry Connolly Cross County Trail crosses here.",
+		"tags": [
+			"junction"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"noGeocode": true
+	},
+	{
+		"id": "bike-lane-brewing",
+		"name": "Bike Lane Brewing & Café",
+		"category": "brewery",
+		"mile": 16.5,
+		"town": "Reston",
+		"offTrail": "right on the trail, Sunset Hills Rd",
+		"url": "https://www.thebikelane.com/",
+		"notes": "Bike shop, brewery and café in one building at the Sunset Hills crossing. Repairs while you drink.",
+		"tags": [
+			"bike-parking",
+			"repair",
+			"food",
+			"coffee"
+		],
+		"source": "fxva.com best stops; r/bikedc i64koh",
+		"verified": false,
+		"query": "The Bike Lane, 11150 Sunset Hills Road, Reston, VA",
+		"lat": 38.94837,
+		"lon": -77.33061,
+		"address": "11150 Sunset Hills Road, Reston, VA 20190",
+		"geocoded": "nominatim",
+		"also": [
+			"bike-shop",
+			"coffee"
+		]
+	},
+	{
+		"id": "founding-farmers-reston",
+		"name": "Founding Farmers",
+		"category": "restaurant",
+		"mile": 16.5,
+		"town": "Reston",
+		"offTrail": "about 0.3 mi",
+		"url": "https://www.wearefoundingfarmers.com/location/reston/",
+		"notes": "Big brunch menu; expect a wait on weekends.",
+		"tags": [
+			"brunch"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.94898,
+		"lon": -77.33828,
+		"address": "1904 Reston Metro Plaza, Reston, VA 20190",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "taco-zocalo-reston",
+		"name": "Taco Zocalo",
+		"category": "restaurant",
+		"mile": 16.5,
+		"town": "Reston",
+		"offTrail": "about 1 block, Michael Faraday Dr",
+		"url": "https://zocalotaco.com/location/reston",
+		"notes": "Food truck turned taqueria near Bike Lane; cheap and fast.",
+		"tags": [
+			"tacos",
+			"cheap"
+		],
+		"query": "1810 Michael Faraday Drive, Reston, VA 20190",
+		"source": "r/bikedc i64koh",
+		"verified": false,
+		"lat": 38.94914,
+		"lon": -77.33382,
+		"address": "1810 Michael Faraday Drive, Reston, VA 20190",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "reston-town-center",
+		"name": "Reston Town Center",
+		"category": "restaurant",
+		"mile": 18,
+		"town": "Reston",
+		"offTrail": "about 0.5 mi north of the trail",
+		"url": "https://www.restontowncenter.com/",
+		"notes": "Dozens of restaurants and a public plaza. Ted's Bulletin for pop-tarts and milkshakes.",
+		"tags": [
+			"many-options"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.95853,
+		"lon": -77.35823,
+		"address": "Reston, VA",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "twisted-sweets-savory",
+		"name": "Twisted Sweets & Savory",
+		"category": "restaurant",
+		"mile": 19.5,
+		"town": "Herndon",
+		"offTrail": "about 1 block, Grant St",
+		"url": "https://twisted-sweetsandsavory.square.site/",
+		"notes": "Hungarian chimney cakes and a sandwich menu that made a national top-100 list; quiet strip-mall spot off Grant St.",
+		"tags": [
+			"sandwiches",
+			"dessert"
+		],
+		"query": "626 Grant Street, Herndon, VA 20170",
+		"source": "r/bikedc 1mmr9sa",
+		"verified": false,
+		"lat": 38.9667,
+		"lon": -77.37873,
+		"address": "626 Grant Street, Herndon, VA 20170",
+		"geocoded": "nominatim",
+		"also": [
+			"coffee"
+		]
+	},
+	{
+		"id": "weird-brothers-coffee",
+		"name": "Weird Brothers Coffee",
+		"category": "coffee",
+		"mile": 19.5,
+		"town": "Herndon",
+		"offTrail": "about 0.2 mi, Sunset Park Dr",
+		"url": "https://www.weirdbrotherscoffee.com/",
+		"notes": "Roaster and café in the Sunset Park Dr strip, which also has Enatye, Chai Wyy and Crème de la Crop. Reach it by the new path along Herndon Parkway.",
+		"tags": [
+			"roaster"
+		],
+		"query": "321 Sunset Park Drive, Herndon, VA 20170",
+		"source": "r/bikedc 1mmr9sa",
+		"verified": false,
+		"lat": 38.95767,
+		"lon": -77.37385,
+		"address": "321 Sunset Park Drive, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "enatye",
+		"name": "Enatye Ethiopian Restaurant",
+		"category": "restaurant",
+		"mile": 19.5,
+		"town": "Herndon",
+		"offTrail": "about 0.3 mi, Sunset Park Dr",
+		"url": "https://www.enatye.com/",
+		"notes": "Ethiopian platters and vegetarian combos; a NoVA best-restaurants regular.",
+		"tags": [
+			"vegetarian"
+		],
+		"query": "275 Sunset Park Drive, Herndon, VA 20170",
+		"source": "r/bikedc 1mmr9sa",
+		"verified": false,
+		"lat": 38.95678,
+		"lon": -77.37482,
+		"address": "275 Sunset Park Drive, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "herndon-depot",
+		"name": "Herndon Depot & caboose",
+		"category": "landmark",
+		"mile": 20,
+		"town": "Herndon",
+		"offTrail": "on the trail",
+		"url": "https://herndonhistoricalsociety.org/",
+		"notes": "Restored 1857 station, now a small museum. Benches, shade, and the town green.",
+		"tags": [
+			"photo",
+			"shade"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"query": "Herndon Depot Museum, 717 Lynn Street, Herndon, VA",
+		"lat": 38.97019,
+		"lon": -77.38576,
+		"address": "717 Lynn Street, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "aslin-herndon",
+		"name": "Aslin Beer Co",
+		"category": "brewery",
+		"mile": 20,
+		"town": "Herndon",
+		"offTrail": "about half a block",
+		"url": "https://aslinbeer.com/",
+		"notes": "Small-batch brewery with a lively tasting room, a half block off the trail. Izzy's kitchen inside does a well-liked chicken sandwich.",
+		"tags": [
+			"patio",
+			"food"
+		],
+		"source": "Washingtonian; fxva.com best stops; r/bikedc 1mmr9sa",
+		"verified": false,
+		"lat": 38.96931,
+		"lon": -77.387,
+		"address": "767 Elden Street, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "jimmys-old-town-tavern",
+		"name": "Jimmy's Old Town Tavern",
+		"category": "bar",
+		"mile": 20,
+		"town": "Herndon",
+		"offTrail": "about 1 block, Elden St",
+		"url": "https://www.jimmystavern.com/",
+		"notes": "Wings, burgers and a long beer list; TVs for games.",
+		"tags": [
+			"food"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.96946,
+		"lon": -77.38627,
+		"address": "697 Spring Street, Herndon, VA 20170",
+		"geocoded": "nominatim",
+		"also": [
+			"restaurant"
+		]
+	},
+	{
+		"id": "great-harvest-herndon",
+		"name": "Great Harvest Bread Co",
+		"category": "coffee",
+		"mile": 20,
+		"town": "Herndon",
+		"offTrail": "about 1 block",
+		"url": "https://darngoodbread.com/",
+		"notes": "Bakery; free bread slices.",
+		"tags": [
+			"bakery"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.9708,
+		"lon": -77.38524,
+		"address": "785 Station Street, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "sullys-pour-house",
+		"name": "Sully's Pour House",
+		"category": "bar",
+		"mile": 20,
+		"town": "Herndon",
+		"offTrail": "about 1 block, Elden St",
+		"notes": "Bar on Elden Street with a short pub menu.",
+		"tags": [],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.96974,
+		"lon": -77.38658,
+		"address": "754 Elden Street, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "green-lizard",
+		"name": "Green Lizard Cycling",
+		"category": "bike-shop",
+		"mile": 20,
+		"town": "Herndon",
+		"offTrail": "right on the trail, Lynn St",
+		"url": "https://greenlizardcycling.com/",
+		"notes": "Bike shop with a coffee bar and beer taps, directly on the trail next to the Herndon depot. Rentals, repairs, and a place to sit.",
+		"tags": [
+			"repair",
+			"coffee",
+			"beer",
+			"rental"
+		],
+		"query": "718 Lynn Street, Herndon, VA 20170",
+		"source": "curated: komoot / wanderlog trail highlights (web, 2026); r/bikedc i64koh",
+		"verified": false,
+		"lat": 38.97116,
+		"lon": -77.38589,
+		"address": "718 Lynn Street, Herndon, VA 20170",
+		"geocoded": "nominatim",
+		"also": [
+			"coffee",
+			"bar"
+		]
+	},
+	{
+		"id": "dairy-queen-herndon",
+		"name": "Dairy Queen",
+		"category": "restaurant",
+		"mile": 20,
+		"town": "Herndon",
+		"offTrail": "right on the trail, Lynn St",
+		"url": "https://www.dairyqueen.com/en-us/locations/va/herndon/742-lynn-st/19420/",
+		"notes": "Treat-only DQ beside the trail in old town Herndon. A 40-mile round trip for a Blizzard is a r/bikedc tradition.",
+		"tags": [
+			"ice-cream",
+			"classic"
+		],
+		"query": "742 Lynn Street, Herndon, VA 20170",
+		"source": "r/bikedc i64koh",
+		"verified": false,
+		"lat": 38.97071,
+		"lon": -77.38573,
+		"address": "742 Lynn Street, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "anitas-herndon",
+		"name": "Anita's New Mexico Style Mexican Food",
+		"category": "restaurant",
+		"mile": 20,
+		"town": "Herndon",
+		"offTrail": "right on the trail, Elden St",
+		"url": "https://www.anitascorp.com/",
+		"notes": "Local chain known for breakfast burritos and green chile; open early.",
+		"tags": [
+			"breakfast",
+			"classic"
+		],
+		"query": "701 Elden Street, Herndon, VA 20170",
+		"source": "r/bikedc i64koh",
+		"verified": false,
+		"lat": 38.96949,
+		"lon": -77.38419,
+		"address": "701 Elden Street, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "wooboi-herndon",
+		"name": "Wooboi Hot Chicken",
+		"category": "restaurant",
+		"mile": 20,
+		"town": "Herndon",
+		"offTrail": "about 0.2 mi, Spring St",
+		"url": "https://www.wooboichicken.com/",
+		"notes": "Nashville-style hot chicken sandwiches. Weekday lunch hours only; check before riding out.",
+		"tags": [
+			"sandwiches",
+			"weekday-only"
+		],
+		"query": "139 Spring Street, Herndon, VA 20170",
+		"source": "r/bikedc i64koh",
+		"verified": false,
+		"lat": 38.95787,
+		"lon": -77.37329,
+		"address": "139 Spring Street, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "herndon-community-center",
+		"name": "Herndon Community Center",
+		"category": "water-restroom",
+		"mile": 21,
+		"town": "Herndon",
+		"offTrail": "on the trail",
+		"url": "https://www.herndon-va.gov/about-us/recreation/community-center",
+		"notes": "Water fountain and restrooms during opening hours.",
+		"tags": [
+			"water",
+			"restroom"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 38.97284,
+		"lon": -77.39348,
+		"address": "814 Ferndale Avenue, Herndon, VA 20170",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "crooked-run-sterling",
+		"name": "Crooked Run Fermentation",
+		"category": "brewery",
+		"mile": 22.5,
+		"town": "Sterling",
+		"offTrail": "about 0.2 mi",
+		"url": "https://crookedrunbrewing.com/",
+		"notes": "Crooked Run's Sterling production brewery and taproom, with Señor Ramon Taqueria inside.",
+		"tags": [
+			"food"
+		],
+		"source": "fxva.com best stops; r/bikedc i64koh",
+		"verified": false,
+		"lat": 38.99446,
+		"lon": -77.42286,
+		"address": "22455 Davis Drive, Sterling, VA 20164",
+		"geocoded": "nominatim",
+		"also": [
+			"restaurant"
+		]
+	},
+	{
+		"id": "joes-cafe-sterling",
+		"name": "Joe's Café",
+		"category": "coffee",
+		"mile": 24,
+		"town": "Sterling",
+		"offTrail": "about 1 block",
+		"url": "https://joescafesterling.com/",
+		"notes": "Diner-style breakfast and coffee.",
+		"tags": [
+			"breakfast"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 39.00509,
+		"lon": -77.42693,
+		"address": "45665 West Church Road, Sterling, VA 20164",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "old-ox",
+		"name": "Old Ox Brewery",
+		"category": "brewery",
+		"mile": 25,
+		"town": "Ashburn",
+		"offTrail": "right on the trail",
+		"url": "https://oldoxbrewery.com/",
+		"notes": "Less than ten steps from the trail with ample bike parking. Big taproom, food trucks most days.",
+		"tags": [
+			"bike-parking",
+			"patio",
+			"dog-friendly"
+		],
+		"source": "Washingtonian; fxva.com best stops",
+		"verified": false,
+		"query": "44652 Guilford Drive, Ashburn, VA 20147",
+		"lat": 39.02398,
+		"lon": -77.45518,
+		"address": "44652 Guilford Drive, Ashburn, VA 20147",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "lost-rhino",
+		"name": "Lost Rhino Brewing",
+		"category": "brewery",
+		"mile": 27,
+		"town": "Ashburn",
+		"offTrail": "about 2 mi by road, Red Rum Dr",
+		"url": "https://lostrhino.com/",
+		"notes": "Ashburn's original craft brewery. A real detour from the trail, about two miles each way on roads.",
+		"tags": [
+			"food"
+		],
+		"source": "local knowledge",
+		"verified": false,
+		"query": "21730 Red Rum Drive, Ashburn, VA 20147",
+		"lat": 39.01589,
+		"lon": -77.47709,
+		"address": "21730 Red Rum Drive, Ashburn, VA 20147",
+		"geocoded": "nominatim",
+		"also": [
+			"restaurant"
+		]
+	},
+	{
+		"id": "carolina-brothers",
+		"name": "Carolina Brothers Pit BBQ",
+		"category": "restaurant",
+		"mile": 27.5,
+		"town": "Ashburn",
+		"offTrail": "about 1 block, Ashburn Rd",
+		"url": "https://carolinabrothers.com/",
+		"notes": "North Carolina pulled pork with a choice of sauces, counter service, outdoor tables.",
+		"tags": [
+			"patio",
+			"classic"
+		],
+		"source": "Washingtonian; fxva.com best stops; r/bikedc 1mmr9sa, i64koh",
+		"verified": false,
+		"query": "20702 Ashburn Road, Ashburn, VA 20147",
+		"lat": 39.04369,
+		"lon": -77.4872,
+		"address": "20702 Ashburn Road, Ashburn, VA 20147",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "goose-creek-bridge",
+		"name": "Goose Creek bridge",
+		"category": "landmark",
+		"mile": 30.5,
+		"town": "Leesburg",
+		"offTrail": "on the trail",
+		"notes": "Long bridge over Goose Creek with a view of the quarry and the creek valley.",
+		"tags": [
+			"photo"
+		],
+		"source": "local knowledge",
+		"verified": false,
+		"noGeocode": true
+	},
+	{
+		"id": "moms-apple-pie",
+		"name": "Mom's Apple Pie Company",
+		"category": "coffee",
+		"mile": 33.8,
+		"town": "Leesburg",
+		"offTrail": "right on the trail, Loudoun St",
+		"url": "https://www.momsapplepieco.com/",
+		"notes": "Pie by the slice, a few steps from the trail. Benches outside.",
+		"tags": [
+			"bakery",
+			"classic"
+		],
+		"source": "local knowledge",
+		"verified": false,
+		"query": "Mom's Apple Pie, 220 Loudoun Street SE, Leesburg, VA",
+		"lat": 39.11312,
+		"lon": -77.56047,
+		"address": "220 Loudoun Street Southeast, Leesburg, VA 20175",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "crooked-run-leesburg",
+		"name": "Crooked Run Brewing (Market Station)",
+		"category": "brewery",
+		"mile": 34,
+		"town": "Leesburg",
+		"offTrail": "about 0.25 mi",
+		"url": "https://crookedrunbrewing.com/",
+		"notes": "The original Crooked Run, a small taproom in the Market Station complex a quarter-mile from the trail.",
+		"tags": [],
+		"source": "Washingtonian",
+		"verified": false,
+		"query": "205 Harrison Street SE, Leesburg, VA 20175",
+		"lat": 39.11231,
+		"lon": -77.56315,
+		"address": "205 Harrison Street Southeast, Leesburg, VA 20175",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "black-hoof",
+		"name": "Black Hoof Brewery",
+		"category": "brewery",
+		"mile": 34,
+		"town": "Leesburg",
+		"offTrail": "about 2 blocks",
+		"url": "https://blackhoofbrewing.com/",
+		"notes": "Lagers and Czech-style beers in downtown Leesburg.",
+		"tags": [],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 39.11506,
+		"lon": -77.56487,
+		"address": "11 South King Street, Leesburg, VA 20175",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "black-walnut",
+		"name": "Black Walnut Brewery",
+		"category": "brewery",
+		"mile": 34,
+		"town": "Leesburg",
+		"offTrail": "about 3 blocks, King St",
+		"url": "https://blackwalnutbrewery.com/",
+		"notes": "Shares a building with Kahvila coffee house, so it works as a morning or afternoon stop.",
+		"tags": [
+			"coffee"
+		],
+		"source": "Washingtonian; fxva.com best stops",
+		"verified": false,
+		"query": "210 South King Street, Leesburg, VA 20175",
+		"lat": 39.11276,
+		"lon": -77.56497,
+		"address": "210 South King Street, Leesburg, VA 20175",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "dynasty-brewing",
+		"name": "Dynasty Brewing",
+		"category": "brewery",
+		"mile": 34,
+		"town": "Leesburg",
+		"offTrail": "about 0.3 mi",
+		"url": "https://dynastybrewing.com/",
+		"notes": "Taproom and beer garden in Leesburg.",
+		"tags": [
+			"patio"
+		],
+		"source": "fxva.com best stops",
+		"verified": false
+	},
+	{
+		"id": "transition-triathlon",
+		"name": "Transition Triathlon",
+		"category": "bike-shop",
+		"mile": 34,
+		"town": "Leesburg",
+		"offTrail": "about 2 blocks",
+		"url": "https://transitiontri.com/",
+		"notes": "Full-service shop. Pedego and Maverick Bicycles are also nearby.",
+		"tags": [
+			"repair"
+		],
+		"source": "fxva.com best stops",
+		"verified": false
+	},
+	{
+		"id": "south-street-under",
+		"name": "South Street Under",
+		"category": "restaurant",
+		"mile": 34,
+		"town": "Leesburg",
+		"offTrail": "about 2 blocks, Harrison St",
+		"url": "https://www.southstreetunder.com/",
+		"notes": "Bakery-deli from the Tuscarora Mill team: sandwiches on house bread, a patio, and a cidery next door.",
+		"tags": [
+			"sandwiches",
+			"bakery",
+			"patio"
+		],
+		"query": "203 Harrison Street SE, Leesburg, VA 20175",
+		"source": "r/bikedc 1mmr9sa",
+		"verified": false,
+		"lat": 39.11294,
+		"lon": -77.5626,
+		"address": "203 Harrison Street Southeast, Leesburg, VA 20175",
+		"geocoded": "nominatim",
+		"also": [
+			"coffee"
+		]
+	},
+	{
+		"id": "clarks-gap",
+		"name": "Clarks Gap",
+		"category": "landmark",
+		"mile": 38,
+		"town": "Leesburg",
+		"offTrail": "on the trail",
+		"notes": "High point of the trail at the ridge crossing west of Leesburg. Long steady climb from the east; freewheel from here to Purcellville.",
+		"tags": [
+			"summit"
+		],
+		"source": "local knowledge",
+		"verified": false,
+		"noGeocode": true
+	},
+	{
+		"id": "hamilton-station",
+		"name": "Hamilton Station",
+		"category": "trailhead",
+		"mile": 41,
+		"town": "Hamilton",
+		"offTrail": "on the trail",
+		"notes": "Small trailside parking area at Hamilton Station Road with a bench. No services; the town of Hamilton is a short detour north.",
+		"tags": [
+			"parking"
+		],
+		"source": "local knowledge",
+		"verified": false,
+		"lat": 39.14408,
+		"lon": -77.65122,
+		"address": "Washington & Old Dominion Trail, Paeonian Springs, VA 20158",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "belly-love",
+		"name": "Belly Love Brewing",
+		"category": "brewery",
+		"mile": 44,
+		"town": "Purcellville",
+		"offTrail": "about 1 block",
+		"url": "https://bellylovebrewing.com/",
+		"notes": "Taproom at the east edge of Purcellville, the first beer after the long climb.",
+		"tags": [
+			"patio"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"query": "725 East Main Street, Purcellville, VA 20132",
+		"lat": 39.13657,
+		"lon": -77.70441,
+		"address": "725 East Main Street, Purcellville, VA 20132",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "velo-classique",
+		"name": "Velo Classique",
+		"category": "bike-shop",
+		"mile": 44.8,
+		"town": "Purcellville",
+		"offTrail": "right on the trail, O St",
+		"url": "https://veloclassique.com/",
+		"notes": "Vintage and classic bicycle shop beside the trail; closed Sunday and Monday.",
+		"tags": [
+			"repair",
+			"vintage"
+		],
+		"query": "100 E O Street, Purcellville, VA 20132",
+		"source": "r/bikedc i64koh",
+		"verified": false,
+		"lat": 39.13827,
+		"lon": -77.71492,
+		"address": "100 East O Street, Purcellville, VA 20132",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "purcellville-station",
+		"name": "Purcellville Train Station",
+		"category": "landmark",
+		"mile": 45,
+		"town": "Purcellville",
+		"offTrail": "on the trail",
+		"url": "https://www.purcellvilleva.gov/193/Purcellville-Train-Station",
+		"notes": "Restored 1904 depot marking the western end of the trail. Restrooms and water nearby in season.",
+		"tags": [
+			"photo",
+			"restroom",
+			"water"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"query": "200 North 21st Street, Purcellville, VA 20132",
+		"lat": 39.13847,
+		"lon": -77.71613,
+		"address": "200 North 21st Street, Purcellville, VA 20132",
+		"geocoded": "nominatim",
+		"also": [
+			"water-restroom"
+		]
+	},
+	{
+		"id": "magnolias-at-the-mill",
+		"name": "Magnolias at the Mill",
+		"category": "restaurant",
+		"mile": 45,
+		"town": "Purcellville",
+		"offTrail": "about 1 block",
+		"url": "https://magnoliasmill.com/",
+		"notes": "Sit-down restaurant in a converted feed mill beside the station.",
+		"tags": [],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 39.13834,
+		"lon": -77.71565,
+		"address": "198 North 21st Street, Purcellville, VA 20132",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "monks-bbq",
+		"name": "Monk's BBQ",
+		"category": "restaurant",
+		"mile": 45,
+		"town": "Purcellville",
+		"offTrail": "about 1 block",
+		"url": "https://monksq.com/",
+		"notes": "Barbecue with a big outdoor patio and local beer on tap.",
+		"tags": [
+			"patio"
+		],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"lat": 39.13933,
+		"lon": -77.71796,
+		"address": "251 North 21st Street, Purcellville, VA 20132",
+		"geocoded": "nominatim"
+	},
+	{
+		"id": "catoctin-creek",
+		"name": "Catoctin Creek Distillery",
+		"category": "bar",
+		"mile": 45,
+		"town": "Purcellville",
+		"offTrail": "about 2 blocks",
+		"url": "https://catoctincreekdistilling.com/",
+		"notes": "Rye whiskey tastings and tours in downtown Purcellville.",
+		"tags": [],
+		"source": "fxva.com best stops",
+		"verified": false,
+		"query": "Catoctin Creek Distilling Company, 120 West Main Street, Purcellville, VA",
+		"lat": 39.13644,
+		"lon": -77.71508,
+		"address": "120 West Main Street, Purcellville, VA 20132",
+		"geocoded": "nominatim"
+	}
+]
