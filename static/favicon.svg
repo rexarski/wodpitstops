@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- W&OD Pit Stops mark: side profile of a front wheel, fork, stem and drop handlebar. -->
+  <rect width="64" height="64" rx="12" fill="#fff"/>
+  <g fill="none" stroke="#171717" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="27" cy="42" r="14"/>
+    <path d="M27 42 L34 17"/>
+    <path d="M34 17 L44 17"/>
+    <path d="M44 17 C 53 17 56 24 51 30 C 48 33 43 31 43 27"/>
+  </g>
+  <circle cx="27" cy="42" r="3.2" fill="#171717"/>
+</svg>

@@ -1,0 +1,38 @@
+{
+	"name": "wodpitstops",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "node scripts/build-csv.mjs && vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"csv": "node scripts/build-csv.mjs",
+		"data": "node scripts/fetch-trail.mjs && node scripts/build-reach.mjs && node scripts/fetch-elevation.mjs && node scripts/geocode.mjs && node scripts/build-csv.mjs",
+		"reach": "node scripts/build-reach.mjs"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-static": "4.0.0",
+		"@sveltejs/kit": "^3.0.0",
+		"@sveltejs/vite-plugin-svelte": "^7.2.0",
+		"@turf/buffer": "7.4.0",
+		"@turf/simplify": "7.4.0",
+		"@types/node": "26.6.5",
+		"svelte": "^5.57.1",
+		"svelte-check": "^4.6.0",
+		"typescript": "^6.0.3",
+		"vite": "^8.3.0"
+	},
+	"imports": {
+		"#lib": "./src/lib/index.js",
+		"#lib/*": "./src/lib/*"
+	},
+	"dependencies": {
+		"@fontsource-variable/jost": "5.3.0",
+		"@lucide/svelte": "1.55.0",
+		"maplibre-gl": "6.14.0"
+	}
+}
