@@ -11,7 +11,7 @@ Positioning: the list is curated by the people who ride and run the trail, and a
 - Elevation: USGS 3DEP bare-earth lidar DEM via the National Map point query service, sampled every 0.2 mi along the trail line by `scripts/fetch-elevation.mjs` (Open-Meteo/Copernicus only as a per-point fallback and for the comparison printed by the script). High point 615 ft at mile 37.8 (Clarks Gap).
 - Icons: `@lucide/svelte`, one per category in `CategoryIcon.svelte`. Favicon: side profile of a front wheel, fork and drop bar (`static/favicon.svg`).
 - `@sveltejs/adapter-static`, everything prerendered (`src/routes/+layout.ts`). Output in `build/`.
-- Deploys to GitHub Pages via `.github/workflows/deploy.yml`. `BASE_PATH` env sets `paths.base` (set to `/<repo>` for a project site, empty for a custom domain).
+- Canonical home is https://rexarski.com/wodpitstops/: Netlify builds this repo (`netlify.toml`, `BASE_PATH=/wodpitstops`, publish `build/`) and the main rexarski.com site's `netlify.toml` proxies `/wodpitstops/*` to that Netlify site with a 200 rewrite. `.github/workflows/deploy.yml` also publishes a mirror to GitHub Pages. `BASE_PATH` env sets `paths.base`; the trailing slash on `/wodpitstops/` matters because the CSV link and asset URLs are relative.
 - Package imports use the `#lib/*` alias (see `package.json` `imports`), not `$lib`.
 
 ## Commands

@@ -49,7 +49,7 @@
 	<meta name="description" content={SITE.description} />
 	<meta property="og:title" content={title} />
 	<meta property="og:description" content={SITE.description} />
-	<link rel="canonical" href="https://rexarski.github.io/wodpitstops/" />
+	<link rel="canonical" href="https://rexarski.com/wodpitstops/" />
 </svelte:head>
 
 <header class="hero">

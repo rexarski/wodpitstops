@@ -1,0 +1,22 @@
+# Netlify build for the wodpitstops site itself. It is served at
+# https://rexarski.com/wodpitstops/ through a proxy rewrite in the main
+# site's netlify.toml, so every URL in the build is prefixed with /wodpitstops.
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  NODE_VERSION = "22"
+  BASE_PATH = "/wodpitstops"
+
+# Hashed SvelteKit assets never change under the same name.
+[[headers]]
+  for = "/_app/immutable/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# The CSV is rebuilt on every deploy under the same name.
+[[headers]]
+  for = "/wod-pit-stops.csv"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"

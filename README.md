@@ -2,7 +2,7 @@
 
 **A crowd-sourced guide to where to eat, drink and refill water along the W&OD Trail**, listed by mile marker from Shirlington (mile 0) to Purcellville (mile 45). Scroll down to travel northwest: a map follows you chapter by chapter, with an elevation profile, numbered stops, and a shaded band showing what is within about five minutes of riding.
 
-Live site: https://rexarski.github.io/wodpitstops/
+Live site: https://rexarski.com/wodpitstops/
 
 This is a companion project inspired by [Friends of the W&OD Trail](https://wodfriends.org). It is independent of FoWOD and NOVA Parks.
 
@@ -31,7 +31,7 @@ npm run data       # rebuild trail, reach band, elevation, geocodes and CSV
 node scripts/check-places.mjs  # duplicate ids, bad kinds, geocodes far from the trail
 ```
 
-SvelteKit + Svelte 5, MapLibre with OpenFreeMap tiles, no API keys. Deploys to GitHub Pages on push to `main`; set `BASE_PATH=/wodpitstops` for a project-site build. See [CLAUDE.md](CLAUDE.md) for the full layout, data model and design rules.
+SvelteKit + Svelte 5, MapLibre with OpenFreeMap tiles, no API keys. Deploys on push to `main`: Netlify builds it (`netlify.toml`, `BASE_PATH=/wodpitstops`) and the main rexarski.com site proxies `/wodpitstops/*` to it; the GitHub Pages workflow still publishes a mirror at rexarski.github.io/wodpitstops. See [CLAUDE.md](CLAUDE.md) for the full layout, data model and design rules.
 
 ## Licenses
 
