@@ -1,3 +1,4 @@
+import { asset } from '$app/paths';
 /** Site-wide constants. */
 export const SITE = {
 	name: 'W&OD Pit Stops',
@@ -13,5 +14,5 @@ export const SITE = {
 	email: 'rexarski@gmail.com',
 	trailMiles: 45,
 	/** Published CSV of every stop; built by scripts/build-csv.mjs into static/. */
-	csv: 'wod-pit-stops.csv'
+	csv: asset('wod-pit-stops.csv')
 };

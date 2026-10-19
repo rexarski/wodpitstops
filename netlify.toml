@@ -9,6 +9,13 @@
   NODE_VERSION = "22"
   BASE_PATH = "/wodpitstops"
 
+# Asset URLs are root-relative (/wodpitstops/_app/...), so when this site is
+# visited on its own domain the prefixed paths must map back onto the build.
+[[redirects]]
+  from = "/wodpitstops/*"
+  to = "/:splat"
+  status = 200
+
 # Hashed SvelteKit assets never change under the same name.
 [[headers]]
   for = "/_app/immutable/*"
